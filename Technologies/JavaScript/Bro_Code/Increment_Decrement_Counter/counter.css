@@ -1,0 +1,15 @@
+#counter {
+    text-align: center;
+    margin: 10px;
+    font-size: 10vh;
+}
+.functions {
+    display: flex;
+    justify-content: center;
+}
+button {
+    margin: 0px 10px;
+    padding: 7px 14px;
+    background-color: black;
+    color: white;
+}
